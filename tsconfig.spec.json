@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": ["jest", "node"],
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "src/**/*",
+    "**/*.spec.ts",
+    "**/*.test.ts",
+    "**/*.spec.tsx",
+    "**/*.test.tsx"
+  ],
+}
